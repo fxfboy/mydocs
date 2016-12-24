@@ -1,0 +1,9 @@
+{
+      "server": "9.112.162.167",
+      "server_port": 8388,
+      "password": "passw0rd",
+      "method": "aes-256-cfb",
+      "local_address": "0.0.0.0",
+      "local_port": 1080,
+      "auth": false
+}
